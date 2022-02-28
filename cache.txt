@@ -1,0 +1,1 @@
+{"www.amazon.com": "65.9.105.5", "www.google.com": "142.250.185.164", "www.bing.com": "204.79.197.200", "www.zara.com": "104.115.80.8"}
